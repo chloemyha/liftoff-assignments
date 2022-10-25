@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+In our recipe app, users can upload their recipes. Users can also check whether if they have all the ingredients at home. If they miss an ingredient, users can find the locations of the nearest store that have that ingredients. Users can also rate and write comment about the recipe. 
 ### Features
-Include Features here
+User Login: user can create and log in to the sites.
+Upload Content: user can upload recipe image, description and instructions.
+Feedback: user can rate recipe with a rating bar and write comment for the recipe.
+Check out box: check if the user have enough ingredients. 
+Find a store : user can enter their zipcode. This will show them the closest store location near them. 
 ### Technologies
-Include Technologies here
+Angular
+JavaScript
+Sping MVC 
+MYSQL
+Java
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn how to connect Angular to SpringBoot. I would have to learn how to include Google Navigation in our app. 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/8E6LJtPt/recipe
